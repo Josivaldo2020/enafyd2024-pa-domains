@@ -6,7 +6,15 @@ Reproducible analysis pipeline for the manuscript:
 
 ## Data
 
-The analysis uses public, anonymised microdata from the **Encuesta Nacional de Actividad Física y Deporte 2024 (ENAFYD 2024)**, Ministerio del Deporte, Gobierno de Chile. The microdata file (`BASE DE DATOS ADULTOS.sav`) is **not redistributed here**; obtain it from the Ministry of Sport and place it in `data/`.
+The analysis uses anonymised microdata from the *Encuesta Nacional de Actividad Física y Deporte 2024 (ENAFYD 2024)*, Ministerio del Deporte, Gobierno de Chile, obtained through a formal request under Chile's Transparency Law (Law No. 20.285; request No. BA001T0002363).
+
+The microdata file is **not redistributed** in this repository because redistribution is not permitted. Researchers wishing to reproduce the analyses may obtain the same dataset by submitting an equivalent request through Chile's Transparency Portal:
+
+https://www.portaltransparencia.cl
+
+The official executive report of ENAFYD 2024 is publicly available at:
+
+https://www.mindep.cl/secciones/211
 
 ## Pipeline
 
@@ -46,3 +54,5 @@ See `CITATION.cff`. A Zenodo DOI is minted from the tagged release.
 ## License
 
 MIT — see `LICENSE`.
+
+Update data availability statement
